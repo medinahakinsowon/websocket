@@ -1,0 +1,28 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "websocket class training",
+  "main": "sever.js",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medinahakinsowon/websocket.git"
+  },
+  "keywords": [],
+  "author": "medinat",
+  "license": "ISC",
+  "type" : "module",
+  "bugs": {
+    "url": "https://github.com/medinahakinsowon/websocket/issues"
+  },
+  "homepage": "https://github.com/medinahakinsowon/websocket#readme",
+  "dependencies": {
+    "ws": "^8.20.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/ws": "^8.18.1"
+  }
+}
